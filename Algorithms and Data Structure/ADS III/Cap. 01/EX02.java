@@ -1,4 +1,4 @@
-package uscs;  
+package edIII;  
 public class Atividade_2_2 {  
 public static void main(String[] args) {  
   

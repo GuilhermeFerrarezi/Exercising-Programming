@@ -1,4 +1,4 @@
-package uscs;
+package CList;
 
 public class CList{
     int size;

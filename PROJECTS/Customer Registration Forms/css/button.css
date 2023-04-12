@@ -10,13 +10,13 @@
     transition: 0.2s;
     }
     
-    .button:hover {
+.button:hover {
     color: var(--hover-text);
     transform: translate(-0.25rem,-0.25rem);
     background: var(--hover-bg);
     box-shadow: 0.25rem 0.25rem var(--bg);
     }
     
-    .button:active {
+.button:active {
     box-shadow: none;
     }
